@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="First" file="C:\xampp\htdocs\lp2\application\tests\libraries\First.php" tests="2" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.353766">
+    <testcase name="testContaDeveInformarTotalDeContasAPagarEAReceber" class="First" classname="First" file="C:\xampp\htdocs\lp2\application\tests\libraries\First.php" line="35" assertions="1" time="0.164239"/>
+    <testcase name="testContaDeveCalcularSaldoMensal" class="First" classname="First" file="C:\xampp\htdocs\lp2\application\tests\libraries\First.php" line="49" assertions="1" time="0.189527"/>
+  </testsuite>
+</testsuites>
